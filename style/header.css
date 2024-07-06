@@ -158,6 +158,9 @@ margin-left: 15px;
 .profilephoto{
     width: 32px;
     border-radius: 32px;
+    height: 32px;
+    object-fit: cover;
+    object-position: 10% 10%;
 }
 
 .profilephoto:hover {
